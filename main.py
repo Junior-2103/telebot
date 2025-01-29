@@ -1,5 +1,4 @@
 import telebot as tb
-from dotenv import load_dotenv
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.prompts import ChatPromptTemplate
 import base64
