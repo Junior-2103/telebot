@@ -1,0 +1,4 @@
+langchain
+pillow
+pyTelegramBotAPI
+langchain-google-genai
